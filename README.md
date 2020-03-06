@@ -8,7 +8,7 @@ Don't forget to Star :star: this repository! :sparkling_heart:
 3. [5 Minutes Engineering](https://www.youtube.com/channel/UCyHta2dyCTkf29AB67AYn7A)
 4. [NPTEL](https://www.youtube.com/channel/UC640y4UvDAlya_WOj5U4pfA)
 5. [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw)
-###### Feel free to add more to the list! :100:
+*Feel free to add more to the list!* :100:
 
 ## Wish to contribute to this repository? 
 Notes, eBooks, or any type of learning resources are welcome for contribution to this repository so that students from across the :earth_asia: could be benefitted. Here are the steps to help you along :scroll:
