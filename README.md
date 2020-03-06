@@ -1,5 +1,5 @@
 # OpenEDU[CATION]:rocket:
-:wave: Welcome to **OpenEDU**! We are an open source community contributing to compile a collection of learning resources for CSE/IT enthusiasts, or whosoever finds these resources useful to learn something new. :sparkling_heart:
+:wave: Welcome to **OpenEDU**! We are an open source community contributing to compile a collection of learning resources for CSE/IT enthusiasts, or anyone who finds these resources useful to learn something new. :sparkling_heart:
 
 Don't forget to Star :star: this repository!
 
@@ -11,7 +11,7 @@ Don't forget to Star :star: this repository!
 5. [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw)
 ...*feel free to add more to the list!* :100:
 
-## Wish to contribute to this repository? 
+## Wish to contribute to this repository? :sparkles:
 Notes, eBooks, or any type of learning resources are welcome for contribution to this repository so that students from across the :earth_asia: could be benefited. Here are the steps to help you along :scroll:
 
 ### 1. Fork this repository :fork_and_knife:
@@ -32,8 +32,8 @@ $ cd OpenEDU
 ```
 Move to this folder for all other commands.
 
-### 3. Set it up :arrow_up:
-Run the following commands to see that *your local copy* has a reference to *your forked remote repository* in Github :octocat:
+### 3. Set it up :wrench:
+Run the following commands to see that *your local copy* has a reference to *your forked remote repository* in GitHub :octocat:
 ```sh
 $ git remote -v
 origin  https://github.com/Your_Username/OpenEDU.git (fetch)
@@ -53,7 +53,7 @@ upstream  https://github.com/marwahmanbir/OpenEDU.git (fetch)
 upstream  https://github.com/marwahmanbir/OpenEDU.git (push)
 ```
 
-### 4. Ready, Set, Go!!! :turtle: :rabbit2:
+### 4. Ready, Set, Go!!! :turtle::rabbit2:
 Once you have completed these steps, you are ready to start contributing by checking our `Help Wanted` Issues and creating [pull requests](https://github.com/marwahmanbir/OpenEDU.git/pulls).
 
 ### 5. Create a new branch :bangbang:
