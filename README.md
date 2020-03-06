@@ -1,4 +1,4 @@
-# OpenEDU:rocket:
+# OpenEDU[CATION]:rocket:
 :wave: Welcome to **OpenEDU**! We are an open source community contributing to compile a collection of learning resources for CSE/IT enthusiasts, or whosoever finds these resources useful to learn something new. 
 Don't forget to Star :star: this repository! :sparkling_heart:
 
