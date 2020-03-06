@@ -87,4 +87,5 @@ $ git push -u origin Folder_Name
 Go to your repository in browser and click on `compare and pull requests`.
 Then add a title and description to your pull request that explains your precious effort.
 
+---
 *Created with :sparkling_heart:, by [Manbir](https://twitter.com/manbirmarwah).*
