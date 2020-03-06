@@ -78,12 +78,12 @@ Type in a message relevant for the code reviewer using
 # This message get associated with all files you have changed
 $ git commit -m 'relevant message'
 ```
-### 6. Push your awesome work to your remote repository :fire:
+### 6. Push your awesome work to your remote repository :rocket:
 ```sh
 # To push your work to your remote repository
 $ git push -u origin Folder_Name
 ```
-### 7. Finally, make a PR! :rocket:
+### 7. Finally, make a PR! :fire:
 Go to your repository in browser and click on `compare and pull requests`.
 Then add a title and description to your pull request that explains your precious effort.
 
