@@ -1,6 +1,7 @@
 # OpenEDU[CATION]:rocket:
-:wave: Welcome to **OpenEDU**! We are an open source community contributing to compile a collection of learning resources for CSE/IT enthusiasts, or whosoever finds these resources useful to learn something new. 
-Don't forget to Star :star: this repository! :sparkling_heart:
+:wave: Welcome to **OpenEDU**! We are an open source community contributing to compile a collection of learning resources for CSE/IT enthusiasts, or whosoever finds these resources useful to learn something new. :sparkling_heart:
+
+Don't forget to Star :star: this repository!
 
 ### Useful video tutorials on YouTube:
 1. [Easy Engineering Classes](https://www.youtube.com/channel/UC4EX8zLiBUalk704IX_zu1Q)
@@ -8,10 +9,10 @@ Don't forget to Star :star: this repository! :sparkling_heart:
 3. [5 Minutes Engineering](https://www.youtube.com/channel/UCyHta2dyCTkf29AB67AYn7A)
 4. [NPTEL](https://www.youtube.com/channel/UC640y4UvDAlya_WOj5U4pfA)
 5. [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw)
-*Feel free to add more to the list!* :100:
+...*feel free to add more to the list!* :100:
 
 ## Wish to contribute to this repository? 
-Notes, eBooks, or any type of learning resources are welcome for contribution to this repository so that students from across the :earth_asia: could be benefitted. Here are the steps to help you along :scroll:
+Notes, eBooks, or any type of learning resources are welcome for contribution to this repository so that students from across the :earth_asia: could be benefited. Here are the steps to help you along :scroll:
 
 ### 1. Fork this repository :fork_and_knife:
 You can get your own fork/copy of [OpenEDU](https://github.com/marwahmanbir/OpenEDU) by using the <a href="https://github.com/marwahmanbir/OpenEDU/new/master?readme=1#fork-destination-box"><kbd><b>Fork</b></kbd></a> button or clicking [here](https://github.com/marwahmanbir/OpenEDU/new/master?readme=1#fork-destination-box).
