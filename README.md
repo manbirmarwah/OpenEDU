@@ -9,6 +9,9 @@ Don't forget to Star :star: this repository!
 3. [5 Minutes Engineering](https://www.youtube.com/channel/UCyHta2dyCTkf29AB67AYn7A)
 4. [NPTEL](https://www.youtube.com/channel/UC640y4UvDAlya_WOj5U4pfA)
 5. [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw)
+6. [Study Buddy](https://www.youtube.com/user/zacklovemartin)
+7. [Neso Academy](https://www.youtube.com/user/nesoacademy)
+
 ...*feel free to add more to the list!* :100:
 
 ## Wish to contribute to this repository? :sparkles:
