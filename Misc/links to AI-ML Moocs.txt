@@ -1,0 +1,62 @@
+Links for AI/ML resources…
+
+Stanford Machine Learning by Andrew Ng
+https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599
+
+https://www.youtube.com/watch?v=O0icRttJ0YU&list=PLJ1-ciQ35nuiyL1PX6O4NdF5CjjaDdnVC
+
+https://www.coursera.org/learn/machine-learning
+
+Carnegie Mellon University by Tom Mitchell
+10-601 Machine Learning Spring 2015
+https://www.youtube.com/playlist?list=PLAJ0alZrN8rD63LD0FkzKFiFgkOmEtltQ
+
+
+Machine Learning by mathematicalmonk
+https://www.youtube.com/watch?v=yDLKJtOVx5c&list=PLD0F06AA0D2E8FFBA
+
+Coursera_Neural-Networks-and-Machine-Learning_Geoffrey-Hinton_University-of-Toronto
+https://www.coursera.org/learn/neural-networks
+
+
+MIT Artificial Inteligent
+https://www.youtube.com/watch?v=TjZBTDzGeGg&list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi
+
+
+Caltech
+https://www.youtube.com/watch?v=mbyG85GZ0PI&list=PLD63A284B7615313A
+
+IIT Kharagpur
+https://www.youtube.com/watch?v=fV2k2ivttL0&list=PL813E4962D5808FEA
+
+UCBerkeley
+https://www.youtube.com/watch?v=T7-VjEAosSA&list=PLD52D2B739E4D1C5F
+
+By Fei-Fei Li - Stanford
+https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC
+
+Welch Labs Neural Networks Demystified
+https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU
+
+Welch Labs Learning To See
+https://www.youtube.com/playlist?list=PLiaHhY2iBX9ihLasvE8BKnS2Xg8AhY6iV
+
+Deep learning at Oxford 2015
+https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu
+
+**
+How To Get Started With Machine Learning? | Two Minute Papers
+https://www.youtube.com/watch?v=4h0uC9FPVMQ
+
+
+--------------------
+NLP
+--------------------
+
+Convolutional Neural Networks for Visual Recognition Cs231n course Standford
+https://www.youtube.com/watch?v=g-PvXUjD6qg&list=PLIUoqCcJd2BjsI11qafvMWv_UqiH1Wu3Q
+
+Stanford Dan Jurafsky & Chris Manning: Natural Language Processing
+https://www.youtube.com/watch?v=nfoudtpBV68&list=PL6397E4B26D00A269
+
+
