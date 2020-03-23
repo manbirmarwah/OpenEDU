@@ -11,6 +11,7 @@ Don't forget to Star :star: this repository!
 5. [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw)
 6. [Study Buddy](https://www.youtube.com/user/zacklovemartin)
 7. [Neso Academy](https://www.youtube.com/user/nesoacademy)
+8. [Azure Hackbook](https://arkodyuti.github.io/hackathon-hackbook/)
 
 ...*feel free to add more to the list!* :100:
 
