@@ -3,7 +3,7 @@
 
 Don't forget to Star :star: this repository!
 
-### Useful video tutorials on YouTube:
+### Useful links to tutorials and guides:
 1. [Easy Engineering Classes](https://www.youtube.com/channel/UC4EX8zLiBUalk704IX_zu1Q)
 2. [University Academy](https://www.youtube.com/channel/UCFWCFYvqnAMT-jcCqTp_SlA)
 3. [5 Minutes Engineering](https://www.youtube.com/channel/UCyHta2dyCTkf29AB67AYn7A)
