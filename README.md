@@ -1,29 +1,31 @@
 # OpenEDU[CATION]:rocket:
-:wave: Welcome to **OpenEDU**! We are an open source community contributing to compile a collection of learning resources for CSE/IT enthusiasts, or anyone who finds these resources useful to learn something new. :sparkling_heart:
+:wave: Welcome to **OpenEDU**! We are an open source community contributing to compile a collection of learning resources for Computer Science / IT enthusiasts, or anyone who finds these resources useful to learn something new. :sparkling_heart:
 
 Don't forget to Star :star: this repository!
 
 ### Useful links to tutorials and guides:
-1. [Easy Engineering Classes](https://www.youtube.com/channel/UC4EX8zLiBUalk704IX_zu1Q)
-2. [University Academy](https://www.youtube.com/channel/UCFWCFYvqnAMT-jcCqTp_SlA)
-3. [5 Minutes Engineering](https://www.youtube.com/channel/UCyHta2dyCTkf29AB67AYn7A)
-4. [NPTEL](https://www.youtube.com/channel/UC640y4UvDAlya_WOj5U4pfA)
-5. [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw)
-6. [Study Buddy](https://www.youtube.com/user/zacklovemartin)
-7. [Neso Academy](https://www.youtube.com/user/nesoacademy)
-8. [Azure Hackbook](https://arkodyuti.github.io/hackathon-hackbook/)
+- [Easy Engineering Classes](https://www.youtube.com/channel/UC4EX8zLiBUalk704IX_zu1Q)
+- [University Academy](https://www.youtube.com/channel/UCFWCFYvqnAMT-jcCqTp_SlA)
+- [5 Minutes Engineering](https://www.youtube.com/channel/UCyHta2dyCTkf29AB67AYn7A)
+- [NPTEL](https://www.youtube.com/channel/UC640y4UvDAlya_WOj5U4pfA)
+- [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw)
+- [Study Buddy](https://www.youtube.com/user/zacklovemartin)
+- [Neso Academy](https://www.youtube.com/user/nesoacademy)
+- [Azure Hackbook](https://arkodyuti.github.io/hackathon-hackbook/)
 
 ...*feel free to add more to the list!* :100:
 
-## Wish to contribute to this repository? :sparkles:
-Notes, eBooks, or any type of learning resources are welcome for contribution to this repository so that students from across the :earth_asia: could be benefited. Here are the steps to help you along :scroll:
+## Wish to contribute to this repository? You're the real MVP :star_struck::sparkles:
+Notes, eBooks, or any type of learning resources are welcome for contribution to this repository so that students from across the :earth_asia: could be benefited. **Make sure to add the resource(s) to their respective subject directory** (create one if it doesn't already exist).
 
-### 1. Fork this repository :fork_and_knife:
+Here are the steps to help you along :scroll:
+
+### 1. Fork This Repository :fork_and_knife:
 You can get your own fork/copy of [OpenEDU](https://github.com/marwahmanbir/OpenEDU) by using the <a href="https://github.com/marwahmanbir/OpenEDU/new/master?readme=1#fork-destination-box"><kbd><b>Fork</b></kbd></a> button or clicking [here](https://github.com/marwahmanbir/OpenEDU/new/master?readme=1#fork-destination-box).
  [![Fork Button](https://help.github.com/assets/images/help/repository/fork_button.jpg)](https://github.com/CoderJolly/IPU-Engineering-Notes)
  
  
-### 2. Clone this repository :busts_in_silhouette:
+### 2. Clone This Repository :busts_in_silhouette:
 You need to clone (download a copy of) this repository to your local machine using
 ```sh
 $ git clone https://github.com/Your_Username/OpenEDU.git
@@ -36,7 +38,7 @@ $ cd OpenEDU
 ```
 Move to this folder for all other commands.
 
-### 3. Set it up :wrench:
+### 3. Set It Up :wrench:
 Run the following commands to see that *your local copy* has a reference to *your forked remote repository* in GitHub :octocat:
 ```sh
 $ git remote -v
@@ -57,10 +59,10 @@ upstream  https://github.com/marwahmanbir/OpenEDU.git (fetch)
 upstream  https://github.com/marwahmanbir/OpenEDU.git (push)
 ```
 
-### 4. Ready, Set, Go!!! :turtle::rabbit2:
+### 4. Ready, Set, Go! :turtle::rabbit2:
 Once you have completed these steps, you are ready to start contributing by checking our `Help Wanted` Issues and creating [pull requests](https://github.com/marwahmanbir/OpenEDU.git/pulls).
 
-### 5. Create a new branch :bangbang:
+### 5. Create A New Branch :herb:
 Whenever you are going to make contribution. Please create separate branch using command and keep your `master` branch clean (i.e. synced with remote branch).
 ```sh
 # It will create a new branch with name Branch_Name and switch to branch Folder_Name
@@ -82,14 +84,18 @@ Type in a message relevant for the code reviewer using
 # This message get associated with all files you have changed
 $ git commit -m 'relevant message'
 ```
-### 6. Push your awesome work to your remote repository :rocket:
+### 6. Push The Changes To Your Remote Repository :rocket::sparkles:
 ```sh
 # To push your work to your remote repository
 $ git push -u origin Folder_Name
 ```
-### 7. Finally, make a PR! :fire:
+### 7. Finally, Make a PR! :fire:
 Go to your repository in browser and click on `compare and pull requests`.
 Then add a title and description to your pull request that explains your precious effort.
 
+### 8. All done!? Time to partyyy! :heart_eyes::tada:
+And don't forget to invite [Manbir](https://twitter.com/manbirmarwah) to the party (if you'd like) :p
+
+
 ---
-*Created with :sparkling_heart:, by [Manbir](https://twitter.com/manbirmarwah).*
+*Created with :sparkling_heart:, by [Manbir](https://twitter.com/manbirmarwah), with an ambition to make education more open, accessible and free to all.*
