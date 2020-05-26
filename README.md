@@ -94,8 +94,8 @@ Go to your repository in browser and click on `compare and pull requests`.
 Then add a title and description to your pull request that explains your precious effort.
 
 ### 8. All done!? Time to partyyy! :heart_eyes::tada:
-And don't forget to invite [Manbir](https://twitter.com/manbirmarwah) to the party (if you'd like) :p
+And don't forget to invite me to the party (if you'd like) :p
 
 
 ---
-*Created with :sparkling_heart:, by [Manbir](https://twitter.com/manbirmarwah), with an ambition to make education more open, accessible and free to all.*
+*Created with :sparkling_heart:, by [Manbir](https://twitter.com/manbirmarwah) with an ambition to make education more open, accessible and free to all.*
