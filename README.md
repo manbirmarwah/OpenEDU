@@ -84,7 +84,7 @@ Type in a message relevant for the code reviewer using
 # This message get associated with all files you have changed
 $ git commit -m 'relevant message'
 ```
-### 6. Push The Changes To Your Remote Repository :rocket::sparkles:
+### 6. Push The Changes To Your Remote Repository :rocket:
 ```sh
 # To push your work to your remote repository
 $ git push -u origin Folder_Name
@@ -98,4 +98,4 @@ And don't forget to invite me to the party (if you'd like) :p
 
 
 ---
-*Created with :sparkling_heart:, by [Manbir](https://twitter.com/manbirmarwah) with an ambition to make education more open, accessible and free to all.*
+*Created with :sparkling_heart:, by [Manbir](https://twitter.com/manbirmarwah) with an ambition to make education more open, accessible and free for all.* :sparkles:
