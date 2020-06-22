@@ -1,7 +1,7 @@
 # OpenEDU[CATION]:rocket:
 :wave: Welcome to **OpenEDU**! We are an open source community contributing to compile a collection of learning resources for Computer Science / IT enthusiasts, or anyone who finds these resources useful to learn something new. :sparkling_heart:
 
-![GitHub stars](https://img.shields.io/github/stars/marwahmanbir/OpenEDU?label=Star&style=for-the-badge) ![GitHub followers](https://img.shields.io/github/followers/marwahmanbir?label=Follow&style=for-the-badge) ![GitHub forks](https://img.shields.io/github/forks/marwahmanbir/OpenEDU?label=Fork&style=for-the-badge) 
+![GitHub stars](https://img.shields.io/github/stars/marwahmanbir/OpenEDU?label=Stars&style=for-the-badge) ![GitHub followers](https://img.shields.io/github/followers/marwahmanbir?label=Followers&style=for-the-badge) ![GitHub forks](https://img.shields.io/github/forks/marwahmanbir/OpenEDU?label=Forks&style=for-the-badge) 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/manbirmarwah?style=social)
 
